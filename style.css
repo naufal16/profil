@@ -1,0 +1,99 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url(aset/bg1.png);
+}
+
+.rounded-image{
+    border-radius: 200px;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
+}
+
+.header-containt{
+    display: flex;
+    align-items: center;
+}
+
+.home-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.home-main h1 {
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 79px;
+    margin-bottom: 25px;
+    margin-left: 40px;
+    color: black;
+}
+
+.home-main h2{
+    margin-left: 40px;
+}
+
+.home-main p{
+    text-align: justify;
+    font-size: 19px;
+    margin-left: 40px;
+    font-style: normal;
+    color: black;
+}
+
+table{
+    width: 245px;
+    height: 48px;
+    margin-left: -970px;
+    margin-top: -38px;  
+    outline-style: none;
+    border-style: nonel;
+}
+
+.hero-image{
+    outline-style: none;
+    border-style: none;
+}
+
+.capai-section h1{
+    margin-left: 40px;
+    margin-top: 210px;
+    font-size: 50px;
+    color: #03045E;
+}
+
+.capai2-content {
+    font-size: 20px;
+    margin-bottom: 150px;
+    margin-left: 40px;
+}
+
+.hero2-image{
+    text-align: right;
+    margin-top: -395px;
+    margin-right: 80px;
+}
+
+.target-section h1{
+    margin-left: 40px;
+    margin-top: 110px;
+    font-size: 50px;
+    color: #03045E;
+}
+
+.target2-content{
+    font-size: 20px;
+    margin-bottom: 200px;
+    margin-left: 40px;   
+}
+
+.hero3-image{
+    text-align: right;
+    margin-top: -370px;
+    margin-right: 80px;
+}
+
+
+
